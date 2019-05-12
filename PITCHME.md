@@ -1,48 +1,34 @@
-# Let's Get Started
+# StyleSync
+
+#### Simplify shopping
 
 ---
 
-## Add Some Slide Candy
+@title[Problem]
 
-![](assets/img/presentation.png)
-
+- **Package returns** is an important problem for shops selling clothes online.
+- **Item Selection** is overwhelming for online shoppers.
+- **Not easy** for small/ medium online store to build software.
+  
 ---
-@title[Customize Slide Layout]
+@title[Solution]
+
+#### A software where shops can make recommendations based on their customer's personal needs
 
 @snap[west span-50]
-## Customize Slide Content Layout
+## Customer analysis platform
+- sizes: body shape
+- colors: skin, hair, eyes
+- life-style
 @snapend
 
 @snap[east span-50]
-![](assets/img/presentation.png)
+## Shop integration and predictions
 @snapend
 
----?color=#E58537
-@title[Add A Little Imagination]
+---
+@title[Market size]
 
 @snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
-
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
-
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
-
----?image=assets/img/presenter.jpg
-
-@snap[north span-100 headline]
-## Now It's Your Turn
-@snapend
-
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+@img[shadow](assets/img/market_size.png)
 @snapend
